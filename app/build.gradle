@@ -18,7 +18,7 @@ android {
         applicationId "fishrungames.escapetomoscow2"
         minSdkVersion 21
         targetSdkVersion 35
-        versionCode 1760806630
+        versionCode 1760814855
         versionName "1.0"
     }
 

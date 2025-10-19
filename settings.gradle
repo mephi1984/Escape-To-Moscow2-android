@@ -14,6 +14,6 @@ dependencyResolutionManagement {
 }
 
 
-include ':renpyiap', ':renpyandroid', ':app'
+include ':renpyiap', ':renpyandroid', ':app', ':ff1', ':ff2', ':ff3', ':ff4'
 
 rootProject.name="app"

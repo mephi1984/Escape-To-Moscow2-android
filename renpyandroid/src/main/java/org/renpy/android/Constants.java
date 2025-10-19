@@ -6,7 +6,7 @@ public class Constants {
 
     // The names of the asset packs to check and download.
 
-    public static String assetPacks[ ] = { };
+    public static String assetPacks[ ] = { "ff1", "ff2", "ff3", "ff4" };
 
 
 }

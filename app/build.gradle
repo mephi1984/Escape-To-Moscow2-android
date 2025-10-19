@@ -3,7 +3,7 @@ plugins {
 }
 
 
-def localPropertiesFile = rootProject.file("local.properties")
+def localPropertiesFile = rootProject.file("bundle.properties")
 
 
 def localProperties = new Properties()
@@ -18,8 +18,8 @@ android {
         applicationId "fishrungames.escapetomoscow2"
         minSdkVersion 21
         targetSdkVersion 35
-        versionCode 1760814855
-        versionName "1.0"
+        versionCode 1760864730
+        versionName "1.0.0"
     }
 
     signingConfigs {
@@ -52,6 +52,8 @@ android {
         }
     }
 
+
+    assetPacks = [ ":ff1", ":ff2", ":ff3", ":ff4" ]
 
 
     androidResources {

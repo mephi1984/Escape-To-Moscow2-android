@@ -2,7 +2,7 @@
     "expansion": false,
     "google_play_key": null,
     "google_play_salt": null,
-    "heap_size": "4",
+    "heap_size": "3",
     "icon_name": "\u041f\u043e\u0431\u0435\u0433 \u0432 \u041c\u043e\u0441\u043a\u0432\u0443 2",
     "include_pil": false,
     "include_sqlite": false,
@@ -17,7 +17,7 @@
     ],
     "source": false,
     "store": "none",
-    "update_always": true,
+    "update_always": false,
     "update_icons": true,
     "update_keystores": true,
     "version": "1.0"
